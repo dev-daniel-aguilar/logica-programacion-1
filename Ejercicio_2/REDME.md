@@ -1,4 +1,4 @@
-Se agrega Ejercicio 1 de lógica de programacion con las siguientes instrucciones:
+Se agrega Ejercicio 2 de lógica de programacion con las siguientes instrucciones:
 
 ○ Debe solicitar al usuario la temperatura en grados Celsius por prompt o por un input. 
 
